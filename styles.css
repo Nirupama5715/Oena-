@@ -166,7 +166,7 @@ a{
  
   }
  
-/* The Modal (background) */
+
 .modal {
   display: none; 
   position: fixed;
@@ -181,7 +181,7 @@ a{
   background-color: rgba(0,0,0,0.4); 
 }
 
-/* Modal Content */
+
 .modal-content {
   background-color: #fefefe;
   margin: auto;
@@ -190,7 +190,6 @@ a{
   width: 80%;
 }
 
-/* The Close Button */
 .close {
   color: #aaaaaa;
   float: right;
